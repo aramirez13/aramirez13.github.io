@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You're up and running!"
+title: "Getting Started is the Hardest Part!"
 published: true
 ---
 
