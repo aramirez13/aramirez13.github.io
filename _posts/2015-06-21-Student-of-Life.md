@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Why I consider myself a student of life
