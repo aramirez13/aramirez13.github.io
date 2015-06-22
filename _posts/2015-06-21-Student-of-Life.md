@@ -1,8 +1,8 @@
 ---
+layout: post
+title: "Why I consider myself a student of life."
 published: true
 ---
-
-## Why I consider myself a student of life
 
 Last year I graduated from college and for the first time I would no longer have the title of student. It was both liberating and frightening. I had freedom to do what I want, but I missed being a student. Saying I was a student was kind of a shield, looking back on it. If someone asked me if I worked, I would reply that I was a student.(BTW I commend all the students who also worked, I did it too during my last years in college and it drained me). When I wasn't working, it was a good excuse for not having a job and it was a good way of convincing my neighbors that I’m not “up to no good”. I guess another part I liked about being as student was being in an simulated environment where you were free to make mistakes. Nobody really considers time in school real(even though it is). You always here older folks say upon graduation, “now it time to experience the real world”. Graduation tore up my relationship of being a student like a close friend randomly deciding to move across the country forever. I missed the diversity of topics I could learn from. My last semester was filled with the following electives(because why not): Computer Security, Mythology, Renaissance Art History, Sociology of Sports, Fiction, Personal Psychology. Graduating meant that I would that I would never be able to learn about these things again(or did it?). 
 
