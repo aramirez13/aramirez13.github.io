@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: "Current Reading List"
 ---
 
 ## Current Reading List
