@@ -4,7 +4,7 @@ layout: post
 title: "Current Reading List"
 ---
 
-## Current Reading List
+
 
 Over the last two years I've had an increased appreciation for reading and writing(Post on that in the future). Currently my chosen style for reading has been on a [kindle paperwhite](http://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M). It's an e-paper display so it's easy on the eyes, and it can be read in the sunlight. I think it's the perfect blend of having a paper book in digital form. My room isn't that big, so it helps that I can have unlimited number of books that take up no space. Anywho, I thought I would share some of the books that are currently on my kindle. Some read some not. I know it's possible to have to many unread books, so I don't buy another one until I've finished reading at least 1. In a future post, I'll write about why I chose the book and what I took away from it after giving it a read. Just viewing the list will give you an indication as to where my current state of thinking is. Okay enough text. Here's the list:
 
