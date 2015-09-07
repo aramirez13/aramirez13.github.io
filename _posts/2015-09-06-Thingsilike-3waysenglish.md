@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Things I Like : 3 ways to speak English"
+published: true
 ---
 
 ## Things I like
