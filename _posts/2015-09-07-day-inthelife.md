@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Day in the life: Labor Day"
+published: true
 ---
 
 Today was pretty eventful. Have you ever had the type of day where you only got like two things done and it was enough to make the whole day awesome? Well, that’s what happened to me today. First bit of awesome was that it was labor day and it meant the day off for me. I didn’t really need a day off, but when the government and my workplace agree on giving me a day off, well, I’m not even mad. You would think this means that I was going to sleep in all day and walk around in my pajama’s but my morning was far from that. I woke up around 6, ate breakfast and then laid down to think. In my head I thought about one thing: getting a computer chair. Now, I already have a computer chair, but it’s like 10 years old and it stinks and I don’t feel comfortable on it. It’s baffling that it took me 10 years to realize that I need a new chair. Recently, I’ve been thinking on how to treat myself good. It’s weird to even type that out. As I can almost hear the sigh in someone reading this. 
