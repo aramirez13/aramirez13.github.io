@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: "All work and no play is bad. Here's why"
+published: true
 ---
-
 I like being productive as much as the next guy but I don't want to be consumed by it. When I find a new interest, I become obsessed with it. Unfortunately, many times this leads to me burning out and having an aversion to it. I don't mean to do it. I guess I just get really excited because learning something new is the most awesome feeling one can have. With the amount of information that's available on the internet, this is a feeling anyone(with internet) can have literally everyday. When I decided I wanted to pursue a career in web development about a 9 months ago I quickly entered the rabbit hole.
 
 I this process made me love web development more as I learned new things about it that never existed before. Apparently the field saw a rapid growing of tools and skill sets that adapted to the growing demand of of needs from web developers. I learned about preprocessors , build systems, and flexbox just to name a few.
