@@ -1,6 +1,7 @@
 ---
-published: false
----
+layout: post
+title: "Starting a podcast"
+published: true
 
 
 ![picture of microphone]({{site.baseurl}}/_posts/mic.JPG)
