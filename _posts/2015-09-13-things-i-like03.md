@@ -1,6 +1,9 @@
 ---
-published: false
+layout: post
+title: Things I like: "How To Survive a Party"
+published: true
 ---
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SiEtFrqoiSQ" frameborder="0" allowfullscreen></iframe>
 
