@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+title: Things I like "How To Survive a Party"
 ---
 
 
