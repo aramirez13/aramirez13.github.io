@@ -5,11 +5,12 @@ published: true
 ---
 
 
+
 The title was taken from a take radio host from GTA V. It was said ironically to point out the fact that being unique, in a roundabout way points back to commonality. "If everyone is unique, no one is." Is that really true? Is it possible for us  to run out of unique people? Are there common things among unique people? Do those common things make them common ? Why do people want to be unique? Is the road less travel really the best?
 
 I don't know, I'm just asking a lot of questions.  Aren't we all already unique and similar at the same time? Consider this: We're all the same species yet our mind makes all us different. Even like-minded people are very different. Unique is so broad it should be considered a spectrum. Where the less unique you are, the more "common" you are. Move further away from commonality and you edge every so slightly closer to being unique. I think we can learn a lot from  people who considers themselves unique. About two months ago  a friend recommended I watch the YouTube video of a filmmaker  known as Casey Neistat. I had never heard of him, but to my surprise I had already watched a video of his that had gone viral. It was one in which a man(Casey) visits a german water park at night and is able to use it without attracting any attention. Needless to say I've been watching all of his video ever since, and it's been hard to turn away. He unique in just about every aspect of his being. I'm sure viewers of often like "why did he do that?" His actions commonly go against what most people would do. Recent examples include skating in an airport, sneaking into a hotel to use the pool , and weaving in and out of traffic on skateboard(in NYC). He's actually blown up as of recently with the release of his new app beme. It's an app that focuses on the capturing of ephemeral moments and sharing it, similar to snapchat. He recently posted a video on why being unique was a route he chose.
 
-On his [vlog](https://youtu.be/8hr2Isqsxxs?t=3m35s) he hold a Q and A session. Here's one of the questions: " How did you develop your style of vlogging?"
+On his [vlog](https://youtu.be/8hr2Isqsxxs?t=3m35s) he holds a Q and A session. Here's one of the questions: " How did you develop your style of vlogging?"
 
 Casey: "I developed my own style of filmmaking because I never knew any other way of doing it. I didn't have the burden of an education to overcome to create my own style"- I think that statement is powerful in so many ways. How unique would you be if you weren't told the "right way" way to do things? But also, how hard would life be if had to figure out your own way of doing everything?
 
