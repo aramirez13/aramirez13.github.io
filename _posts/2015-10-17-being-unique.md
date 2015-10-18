@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: I want to be unique, just like everyone else
+published: true
 ---
 
 The title was taken from a take radio host from GTA V. It was said ironically to point out the fact that being unique, in a roundabout way points back to commonality. "If everyone is unique, no one is." Is that really true? Is it possible for us  to run out of unique people? Are there common things among unique people? Do those common things make them common ? Why do people want to be unique? Is the road less travel really the best?
