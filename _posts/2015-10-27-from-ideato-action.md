@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "From ideas to action: Be a Doer"
+published: true
 ---
 
 As awesome as ideas are I can’t help but to feel how overrated they are. It’s to the point where everytime I hear a new idea I get disappointed. Not because the idea is bad, but because the person will never carry that idea out. What if we explored every idea we had? 
