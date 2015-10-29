@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Root of Success"
+published: true
 ---
 
 How does someone truly deserve something? It’s an interesting question that is often asked introspectively. Do I really deserve this? Whether it’s good or bad, judging how much someone deserves is hard. Humans are terrible judges of whether they deserve something or not. People are so hard on themselves that they only think they deserve bad and not good. How many times have you heard someone utter the phrase “I’m going to hell”? 
