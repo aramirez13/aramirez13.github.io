@@ -54,6 +54,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
+extensions: ["strikethrough"]
 highlighter: pygments
 permalink: /:title/
 
