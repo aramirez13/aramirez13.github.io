@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: "How to write"
+published: true
 ---
-
 I use to think one needed to be to be an expert of writing to write/publish something. This initially prevented me from writing, for fear that I would get called out. I thought my lack of experience was as obvious as a mole on someone's face. In retrospect I realize how dumb that thought is. Anyone who wants to write can and should write. 
 
 Writing is a gift everyone should experience. Something I realize more and more as I get older is how overrated the concept of an expert is. How did  that "expert" get started?  One can never do well at something they never start. Writing, like many things I aspire to improve on is an iterative process.  Start with a turd and work way up, adding polish with newly learned skills. Mythbusters [confirmed](https://www.youtube.com/watch?v=3rax27_ZIVM) that a turd can indeed be polished. Granted, a polished turd is a still a turd but it looks better than it started and that a the goal. Odds are its not even as bad as first thought. We have a tendency to be our own worst critic. Many times I've read comments where the following disclaimer is appended "sorry for bad English" and most of the time the English is better than what native speakers write. 
