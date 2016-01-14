@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: "23 - A Year In Review"
+published: true
 ---
-
 
 Yesterday was my last day as a 23 year old. I'm not one to ever celebrate, let alone acknowledge my birthday. In fact, I go to great lengths so that as few people as possible know it. This year I'm taking a new approach. I'm acknowledging my birthday as a true new year. Not like the regular new year celebrated on January 1st, but a more intimate and introspective year in review.If anything, what I'm celebrating is past accomplishments and not the future. Because, well, I haven't done anything yet.
 
