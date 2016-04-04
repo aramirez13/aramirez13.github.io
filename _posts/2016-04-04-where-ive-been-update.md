@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "What I've been doing"
+published: true
 ---
 
 Here's a bit of an update on where I've been since my last post.
