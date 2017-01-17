@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "24 - Year in Review"
+published: true
 ---
 I've been putting this off for quite some time but I just want to go over some observations about my last year. What I did and didn't do, how it went and what I want to do going forward. I going to start with saying that I want to accomplish next year. It's not too much but I think some small changes will make a big difference. I want to write more. I think writing is the biggest flexor of my mind and by far the easiest and best way for me to express myself. I have a lot of thoughts that I want to pour out in the world and I think writing is pivotal to me achieving my ideas. I want to also improve my writing so another thing I want to do is read more. In 2015 I did a really good job with this and for some reason I didn't continue that. So far that's all I want to add to 2017. 
 
