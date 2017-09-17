@@ -1,21 +1,10 @@
 ---
 layout: post
-title: "24 - Year in Review"
+title: 24 - Year in Review
 published: true
 ---
 I've been putting this off for quite some time but I just want to go over some observations about my last year. What I did and didn't do, how it went and what I want to do going forward. I going to start with saying that I want to accomplish next year. It's not too much but I think some small changes will make a big difference. I want to write more. I think writing is the biggest flexor of my mind and by far the easiest and best way for me to express myself. I have a lot of thoughts that I want to pour out in the world and I think writing is pivotal to me achieving my ideas. I want to also improve my writing so another thing I want to do is read more. In 2015 I did a really good job with this and for some reason I didn't continue that. So far that's all I want to add to 2017. 
 
-As for my review of 2017 I'm going to add some bullet points that I will later turn into something.
-
--Going to Hawaii
--washing my own clothes
--Working out
--Personal brand project 
--Using the bathroom at work
--Going to the strip club
--Participating in a Google UX
--Broke some routines (habits of getting the same thing)
--Went to propellerfest (met gary v)
 
 2016 year was an interesting year for me, you know, in the way that some people will say "that's interesting" when they have no idea how to react. I'm not very good at looking back but this year in review forces me to do it and really think about what I did. Did I do better or worse than last year? Did I continue or live up to any of my goals for the last year? I think it's good to look back and evaluate and course correct because I'm in this on my own for now. There is no one keeping me accountable for myself and I do not mind calling myself out on my bullshit. I'm going to start by taking a look at some of the things that I listed off last year and give my thoughts on it.
 
@@ -58,6 +47,3 @@ Sighhhh. So what to say about the podcast. You know what? We released 12 episode
 -Boy did I mess up with this. Remember how I said if the podcast did good I would be too busy to do other things? Something happened in the last episode that made it a lot easier for me to stop podcasting for a while. There was a lot more work than I expected. I was okay with it, but it slowly took it's toll on me. Not in a big way either but enough to make me want to look for other things to do. Honestly, it was a relief to not have to get back into it. In the process I bit up more than I can chew and promised to work on things with other people. I don't know what made me think I could handle it.  I think it has to do with how excited I was that other friends wanted to create something too. Of course I wanted to help, but I didn't have it in me. I'm disappointed that this happened, but at the same time I've learned what my limits are. It's still hard not to overcommit but I now have an experience that I can reference when i come close to this situation again. 
 
 Okay there is more to write but like I said in the beginning, I've put this off for quite some time now. It was supposed to go out on my birthday like the last one. Anyways I'm gonna post what I got an make improvements over time. I can't get wrapped up in making something perfect.
-
-
-
