@@ -3,7 +3,7 @@ layout: post
 title: 25 - Year in Review
 published: true
 ---
-## 25 - A Year in Review
+
 
 _The following was written off the cuff in a starbucks on the day of my birthday. I did not read this over so take these errors for what they are._
 
