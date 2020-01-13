@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: 27 - Year in Review
+published: true
 ---
 So it’s that time of the year again. A new year has passed and it’s time to look back. 27 was a special year for me I think. I would have never guessed it was going to be last year. I didn’t even publish my 26- Year in Review but I think I’ll put them both up today. I had started writing that one a full week before I turned 27 but for some reason I didn’t put it up. So let’s get to the shits with the biggest decision I made as a 27 year old: moving out of my parents place. 
 
